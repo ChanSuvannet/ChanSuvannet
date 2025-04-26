@@ -58,6 +58,7 @@ I'm a passionate and results-driven software engineering student who loves build
 - 📧 [Email](mailto:suvannetchan@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chan-suvannet-63865224a/)
 - 🌐 [Portfolio](https://chan-suvannet-portfolio.vercel.app/)
+- 💬 [Telegram](https://t.me/chan_suvannet)
 
 ---
 
