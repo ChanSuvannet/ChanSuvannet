@@ -1,26 +1,26 @@
-# Hi there, I'm Chan Suvannet 👋
+## Hi there, I'm Chan Suvannet 👋
 
 Welcome to my GitHub profile!  
 I'm a passionate and results-driven software engineering student who loves building creative and impactful solutions. 🚀
 
 - 🎓 Currently studying **Information and Communication Engineering** at Institute of Technology of Cambodia
-- 💻 Interested in **Web Development**, **Mobile Apps**, and **Backend Systems**
+- 💻 Interested in **Web Development**, **Mobile Apps**, and **DevOps**
 - 🌱 Constantly learning new technologies and best practices
 - 🎯 Focused on improving my skills and contributing to exciting projects
 - ✨ I believe in hard work, positivity, and continuous growth
 
 ---
 
-## 🛠 Skills Summary
+### 🛠 Skills Summary
 
-### Programming Languages
+#### Programming Languages
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <a><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/></a>
@@ -30,11 +30,11 @@ I'm a passionate and results-driven software engineering student who loves build
 <a><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 
-### Databases
+#### Databases
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 
-### Tools & Platforms
+#### Tools & Platforms
 <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
@@ -44,7 +44,7 @@ I'm a passionate and results-driven software engineering student who loves build
 <a><img src="https://img.shields.io/badge/Hostinger-673AB7?style=for-the-badge&logo=hostinger&logoColor=white"/></a>
 
 ### Soft Skills
-- 🤝 Teamwork
+- 🥇 Teamwork
 - 💬 Communication
 - 🔄 Adaptability
 - 🧩 Problem Solving
@@ -53,9 +53,9 @@ I'm a passionate and results-driven software engineering student who loves build
 ---
 
 ## 📫 How to reach me
-- 📧 Email: [suvannetchan@gmail.com](mailto:suvannetchan@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)
-- 🌐 Portfolio: [Your Portfolio Link](https://your-portfolio.com)
+- 📧 [Email] (mailto:suvannetchan@gmail.com)
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/chan-suvannet-63865224a/)
+- 🌐 [Portfolio] (https://chan-suvannet-portfolio.vercel.app/)
 
 ---
 
