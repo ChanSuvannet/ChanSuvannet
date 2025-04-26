@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I'm a passionate and results-driven software engineering student who loves building creative and impactful solutions. 🚀
 
-- 🎓 Currently studying **Software Engineering**
+- 🎓 Currently studying **Information and Communication Engineering ** at Institute of Technology of Cambodia
 - 💻 Interested in **Web Development**, **Mobile Apps**, and **Backend Systems**
 - 🌱 Constantly learning new technologies and best practices
 - 🎯 Focused on improving my skills and contributing to exciting projects
