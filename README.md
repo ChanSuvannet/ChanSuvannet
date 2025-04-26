@@ -26,6 +26,7 @@ I'm a passionate and results-driven software engineering student who loves build
 <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
@@ -53,9 +54,9 @@ I'm a passionate and results-driven software engineering student who loves build
 ---
 
 ## 📫 How to reach me
-- 📧 [Email] (mailto:suvannetchan@gmail.com)
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/chan-suvannet-63865224a/)
-- 🌐 [Portfolio] (https://chan-suvannet-portfolio.vercel.app/)
+- 📧 [Email](mailto:suvannetchan@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chan-suvannet-63865224a/)
+- 🌐 [Portfolio](https://chan-suvannet-portfolio.vercel.app/)
 
 ---
 
