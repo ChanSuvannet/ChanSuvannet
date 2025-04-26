@@ -1,6 +1,6 @@
 ## Hi there, I'm Chan Suvannet 👋
 
-Welcome to my GitHub profile!  
+#### Welcome to my GitHub profile!  
 I'm a passionate and results-driven software engineering student who loves building creative and impactful solutions. 🚀
 
 - 🎓 Currently studying **Information and Communication Engineering** at Institute of Technology of Cambodia
@@ -56,7 +56,6 @@ I'm a passionate and results-driven software engineering student who loves build
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chan-suvannet-63865224a/)
 - 🌐 [Portfolio](https://chan-suvannet-portfolio.vercel.app/)
 - 💬 [Telegram](https://t.me/chan_suvannet)
-
   
 Thanks for visiting my profile!  
 Let's build something amazing together. 🤝
