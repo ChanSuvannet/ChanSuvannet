@@ -9,8 +9,7 @@ I'm a passionate and results-driven software engineering student who loves build
 - 🎯 Focused on improving my skills and contributing to exciting projects
 - ✨ I believe in hard work, positivity, and continuous growth
 
----
-
+  
 ### 🛠 Skills Summary
 
 #### Programming Languages
@@ -51,16 +50,13 @@ I'm a passionate and results-driven software engineering student who loves build
 - 🔄 Adaptability
 - 🧩 Problem Solving
 - 🤝 Collaboration
-
----
-
+  
 ## 📫 How to reach me
 - 📧 [Email](mailto:suvannetchan@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chan-suvannet-63865224a/)
 - 🌐 [Portfolio](https://chan-suvannet-portfolio.vercel.app/)
 - 💬 [Telegram](https://t.me/chan_suvannet)
 
----
-
+  
 Thanks for visiting my profile!  
 Let's build something amazing together. 🤝
