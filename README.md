@@ -22,8 +22,6 @@ C++          █████░░░░░░░░░░░░░░░░░�
 JavaScript   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
 ```
 
-*Generated from actual repository data. Run `python scripts/generate_language_stats.py` to update these statistics.*
-
 ### 🧰 Tech Stack
 
 **Languages**
