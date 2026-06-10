@@ -8,14 +8,6 @@ Full-stack developer building web and mobile applications across the entire stac
 
 ### 📊 Most Used Programming Languages
 
-**Language Usage Summary**
-- TypeScript: 35%
-- Java: 20%
-- Go: 15%
-- PHP: 12%
-- C#: 10%
-- Dart: 8%
-
 **Visual Breakdown**
 
 ```
@@ -26,24 +18,7 @@ PHP         █████████░░░░░░░░░░░░░�
 C#          ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 Dart        ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  8%
 ```
-
-**Language Distribution Chart**
-
-![Language Distribution](https://img.shields.io/badge/Languages-6%20Total-blue?style=flat)
-
-| Language | Percentage | Projects |
-|----------|:----------:|----------|
-| TypeScript | 35% | Web & Backend APIs |
-| Java | 20% | Enterprise & Android |
-| Go | 15% | System & Backend Services |
-| PHP | 12% | Web Development |
-| C# | 10% | .NET & Desktop Apps |
-| Dart | 8% | Flutter Mobile Apps |
-
----
-
 ### 🧰 Tech Stack
-
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
