@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** | Phnom Penh, Cambodia
 
-As a full stack developer with 2+ years of experience in web and mobile application development across the entire software development lifecycle (SDLC) (development, testing, deployment, and maintenance), I have strong back-end development skills, with experience in Node.js/NestJS, and front-end development, with experience in Vue.js and React/Next.js, RESTful APIs and third-party APIs, as well as relational and NoSQL databases (MySQL, PostgreSQL, MongoDB). I have also worked extensively with CI/CD pipelines, have experience with Agile teams, and have developed cross-platform mobile applications with Flutter. I am dedicated to developing reliable and scalable systems, with clear documentation and a focus on solving problems in a timely manner.
+As a full stack developer with over 2 years of experience developing, deploying, and supporting internal web applications and management systems. Experience developing web-based tools for operational and administrative processes, systems integration with various digital and database systems, and monitoring production performance and security and reliability. Uses AI-assisted coding and editing tools to increase the development and debugging cycle. Proficient in a range of front-end and back-end frameworks. Integrates well with database design and systems, and possesses a collaborative, Agile approach.
 
 
 
