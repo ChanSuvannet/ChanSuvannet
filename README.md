@@ -11,14 +11,21 @@ Full-stack developer building web and mobile applications across the entire stac
 **Visual Breakdown**
 
 ```
-TypeScript  ████████████████████████████░░░░░░░░░░░ 35%
-Java        ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%
-Go          ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15%
-PHP         █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12%
-C#          ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
-Dart        ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  8%
+Java         ████████████████░░░░░░░░░░░░░░░░░░░░░░ 23.1%
+HTML         ████████████████░░░░░░░░░░░░░░░░░░░░░░ 23.1%
+PHP          █████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 17.9%
+Python       ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.8%
+Dart         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
+TypeScript   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
+C#           █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
+C++          █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
+JavaScript   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
 ```
+
+*Generated from actual repository data. Run `python scripts/generate_language_stats.py` to update these statistics.*
+
 ### 🧰 Tech Stack
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
