@@ -10,18 +10,19 @@ As a full stack developer with over 2 years of experience developing, deploying,
 
 ### 📊 Most Used Programming Languages
 
-**Real-time Statistics**
+**Visual Breakdown**
 
-[![GitHub Profile Summary](https://img.shields.io/badge/View%20on%20GitHub-Language%20Stats-blue?logo=github&logoColor=white)](https://github.com/ChanSuvannet?tab=repositories)
-
-Your language statistics update automatically as you commit code. The breakdown is calculated from all your public repositories.
-
-**To see live language breakdown:**
-- Visit your [GitHub Profile](https://github.com/ChanSuvannet)
-- Check individual repository language stats
-- Use [GitHub API](https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#list-repository-languages) for programmatic access
-
----
+```
+Java         ████████████████░░░░░░░░░░░░░░░░░░░░░░ 23.1%
+HTML         ████████████████░░░░░░░░░░░░░░░░░░░░░░ 23.1%
+PHP          █████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 17.9%
+Python       ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.8%
+Dart         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
+TypeScript   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
+C#           █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
+C++          █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
+JavaScript   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
+```
 
 ### 🧰 Tech Stack
 
