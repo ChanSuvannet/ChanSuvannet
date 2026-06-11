@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** | Phnom Penh, Cambodia
 
-As a full stack developer with over 2 years of experience developing, deploying, and supporting internal web applications and management systems. Experience developing web-based tools for operational [...]
+Results-driven software engineer with expertise in full-stack development and microservices architecture. I build scalable web applications, design clean REST APIs, and collaborate in Agile teams to deliver reliable, user-focused software solutions.
 
 
 
