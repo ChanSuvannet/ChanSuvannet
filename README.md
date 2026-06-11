@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** | Phnom Penh, Cambodia
 
-As a full stack developer with over 2 years of experience developing, deploying, and supporting internal web applications and management systems. Experience developing web-based tools for operational and administrative processes, systems integration with various digital and database systems, and monitoring production performance and security and reliability. Uses AI-assisted coding and editing tools to increase the development and debugging cycle. Proficient in a range of front-end and back-end frameworks. Integrates well with database design and systems, and possesses a collaborative, Agile approach.
+As a full stack developer with over 2 years of experience developing, deploying, and supporting internal web applications and management systems. Experience developing web-based tools for operational [...]
 
 
 
@@ -10,19 +10,18 @@ As a full stack developer with over 2 years of experience developing, deploying,
 
 ### 📊 Most Used Programming Languages
 
-**Visual Breakdown**
+**Real-time Statistics**
 
-```
-Java         ████████████████░░░░░░░░░░░░░░░░░░░░░░ 23.1%
-HTML         ████████████████░░░░░░░░░░░░░░░░░░░░░░ 23.1%
-PHP          █████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 17.9%
-Python       ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.8%
-Dart         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
-TypeScript   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
-C#           █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
-C++          █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
-JavaScript   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
-```
+[![GitHub Profile Summary](https://img.shields.io/badge/View%20on%20GitHub-Language%20Stats-blue?logo=github&logoColor=white)](https://github.com/ChanSuvannet?tab=repositories)
+
+Your language statistics update automatically as you commit code. The breakdown is calculated from all your public repositories.
+
+**To see live language breakdown:**
+- Visit your [GitHub Profile](https://github.com/ChanSuvannet)
+- Check individual repository language stats
+- Use [GitHub API](https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#list-repository-languages) for programmatic access
+
+---
 
 ### 🧰 Tech Stack
 
